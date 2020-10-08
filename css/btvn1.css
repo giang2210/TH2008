@@ -1,0 +1,21 @@
+span{
+    float: right;
+    text-align: right;
+    margin-top: 40px;
+}
+img{
+
+    width: 120px;
+
+}
+p{
+    border-bottom: dashed purple 1px ;
+    margin-bottom: 5px;
+}
+a{
+    color: purple;
+    text-decoration: underline ;
+}
+.aa{
+   margin-bottom: 20px;
+}
