@@ -1,0 +1,103 @@
+body{
+    background: url("https://mtrend.vn/wp-content/uploads/2019/05/hinh-nen-galaxy-may-tinh.jpg");
+    width: 1000px;
+    margin: 0px auto;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.MAIN {
+    margin-top: 40px;
+}
+#main {
+    background: #b8c1ca;
+    width: 1000px;
+    height: 190px;
+    line-height: 0.45;
+
+}
+.header1{
+    margin: 0px;
+    width: 638px;
+    float: right;
+    margin-top: 25px;
+}
+.header1 h1 {
+    font-size: 0px;
+    font-size: 48px;
+}
+#main2 {
+    background: #efefef;
+    width: 1000px;
+    height: 930px;
+}
+.header3 {
+    margin: 0px;
+    width: 650px;
+    float: right;
+    margin-top: 25px;
+}
+.header3-1 {
+    text-align: center;
+    margin-top: 15px;
+    margin-left: -520px;
+    font-size: 0px;
+    font-size: 25px;
+}
+.header3-2 {
+    font-size: 0px;
+    font-size: 18px;
+    text-align: justify;
+    margin-left: 15px;
+    width: 590px;
+}
+.header3-3 {
+    text-align: center;
+    margin-left: -290px;
+    font-size: 0px;
+    font-size: 25px;
+}
+.header3-2 ul {
+    margin-top: -20px;
+}
+.c{
+    margin-left: 15px;
+    margin-top: 30px;
+}
+#main3 {
+    background: #e7e7e7;
+    width: 280px;
+    height: 1000px;
+    margin-top: -1100px;
+    margin-left: 50px;
+    text-align: left;
+}
+.img{
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    margin-left: 65px;
+    margin-top: 30px;
+}
+.header2{
+    background-color: #F1F1F1;
+    width: 250px;
+    height: 1210px;
+    margin-top: -1210px;
+    margin-left: 50px;
+}
+.header2-1{
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.header2-1>p {
+    font-size: 25px;
+}
+.b{
+    margin-left: -2px;
+    margin-top: 30px;
+}
+.aaaa {
+    font-weight: 550;
+}
