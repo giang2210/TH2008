@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f2f2f2;
+    color:#242424;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+img {
+    max-width: 100%;
+    margin-top: 50px;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    float: none;
+}
+.container a{
+    text-decoration: none;
+    color: #303030;
+}
+.content p {
+    margin-top: 20px;
+}
+
+.header{
+    background-color: #ffffff;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 20px 0;
+}
+.nav{
+    background-color: #ffffff;
+    padding: 20px 0;
+}
+
+.logo{
+    width: 30%;
+    float: left;
+}
+.logo a{
+    text-decoration: none;
+    color: #303030;
+}
+
+.top-links{
+    width: 30%;
+    float: right;
+}
+
+.top-links li{
+    float: right;
+    list-style: none;
+    margin-left: 15px;
+}
+.top-links li a{
+    text-decoration: none;
+    color: #303030;
+}
+.menu li{
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+}
+.menu .last-item{
+    float: right;
+    margin-right: 0;
+}
+.main{
+    padding-top: 30px;
+}
+.content{
+    float: left;
+    width: 66.67%;
+    padding-right: 15px;
+}
+.content-body{
+    float: left;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 30px;
+
+}
+.content-body h1{
+    font-size: 22px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.content-body p{
+    margin-left: 10px;
+}
+.content-body a{
+    text-decoration: underline;
+    color: #ec8c89;
+}
+.content-body c{
+    text-decoration: underline;
+    color: #ec8c89;
+}
+.aside {
+    float: left;
+    width: 33.33%;
+    padding-left: 15px;
+}
+.block p{
+    font-size: 24px;
+    color: white;
+}
+.block a{
+    color: white;
+}
+.block {
+
+    float: left;
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 30px;
+    background-color: #333333;
+    height: 350px;
+}
+.n{
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+}
+.q{
+    width: 300px;
+    height: 50px;
+    margin-top: 10px;
+}
+.x {
+    margin-top: 10px;
+    width: 300px;
+    height: 50px;
+    background-color: red;
+}
+
+.k{
+    height: 200px;
+    float: left;
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+}
+.k .icon1{
+    float: left;
+    text-align: center;
+    width: 42px;
+    height: 35px;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid white;
+    background-color: #eeeeee;
+}
+.v{
+    height: 150px;
+    float: left;
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 30px;
+    background-color:white;
+}
+.v .b{
+    height: 50px;
+    width: 250px;
+    margin-top: 22px;
+    margin-left: 30px;
+
+}
+
+
+
+
+
+
+
