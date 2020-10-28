@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<script type="text/javascript">
+     code js viet o day
+      var x = 10;//khai bao bien tan cung
+     if(x > 5){
+         let y = 20;//khai bao bien binh thuong
+     }
+     let y =10;
+     let k;//biet rang k la 1 bien nhuwng chua cap o nho
+     k = 10;// k la 1 so
+     k = "xin chao";// k tro thanh 1 string(chuoi)
+     console.log("K = "+k); //giong printf trong c
+     const c = 25;// la 1 dang hang so
+     let ar = [];//khai bao ar la 1 mang trong
+     ar[0]= 12;
+     ar[1]= "hello";
+     ar[2]= [];
+     ar[2][1] = "xin chao";
+     ar[2][0] = []
+     ar[2][[0][3]]=8;
+     console. log(ar);
+     var arr = [];
+     arr[0] = 1;
+    // arr[1] = "xin chao"
+    // arr [2] = 9;
+    //
+    // var arr2 = [];
+    // arr2[0] = [1,2,3,4]
+    // arr2[1] = [1,2,3,4]
+    // arr2[2] = [1,2,3,4]
+    //
+    // //object
+    // let ob ={}; // giong struct trong c
+    // ob.name = "le van nam";
+    // ob.age = 19;
+    // ob.birthday = '22/10/2002';
+    // console.log(ob);
+    // if(ob.age > 18) {
+    //     console.log(ob.name+ " da den tuoi truong thanh");
+    // }else {
+    //     console.log(ob.name+ " chua den tuoi truong thanh");
+    // }
+    //
+    // var sv = [1,4, 2, 5, 6, 7, 8, 4, 2];
+    // for (let i = 0; i < sv.length; i++){
+    //     console.log("SV - "+sv[i]);
+    // }
+    //
+    //
+    // function TinhTong(a, b){
+    //     return a+b;
+    // }
+    // function hello() {
+    //     console.log("hello world");
+    // }
+    //var d = TinhTong(5,3);
+    //alert("day la canh bao!"); // tao nut canh bao tren trinh duyet nguoi dung.
+    //confirm("ban co chac chan muon mua hang?");
+    //console.log("KQ: "+kq);
+    //var p = prompt("vui long dien ten cua ban:");//tra ve 1 string
+    //console.log(p);
+    //var age = prompt("nhap tuoi cua ban:"); //string
+    //age = parseInt(age); // parseFloat
+    // 19 -> 19
+    // 19 abc -> 19
+    // a19b -> NaN - not a number -> co ham is NaN de kiem tra xe cos phai NaN khong
+    // 1a9 -> 1
+    //console.log(age);
+
+    //yeu cau nguoi dung nhap 1 so tu 0 -> 99
+    // tao 1 so ngau nhien trong 0 - 99
+
+    /*do{
+        var a = prompt("nhap mot so tu 0 - 99: ");
+        a = parseInt(a);
+    }while (a < 0 || a > 99 || isNaN(a));
+    console.log(a);*/
+    // tao 1 so ngau nhien trong 0 - 99
+    do{
+        var  a = prompt("nhap 5 so may man khac nhau tu 0 -99 :");
+        a  = parseInt(a);
+        }while (a < 0 || a > 99 || isNaN(a));
+        var luckynumber = parseInt(Math.random() * 100);
+        if(a == luckynumber){
+            alert("chuc mung ban da trung thuong!");
+        }else {
+            alert("em den lam :))");
+        }
+        console.log(luckynumber);
+
+
+
+</script>
+
+</body>
+<head>
+    <meta charset="UTF-8">
+    <title>demo js</title>
+</head>
+</html>

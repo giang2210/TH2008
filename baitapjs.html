@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+ <script type="text/javascript">
+            var lk = []; // mang 5 so ngau nhien hong trung nhau
+            for (let i = 0 ; i < 5; i++) {
+            let  x;
+            do{
+            x = parseInt(Math.random()*100);
+            }while (lk.includes(x));
+            lk[i] = x;
+            }
+            console.log(lk);
+            var mynumbers = []; // mang 5 so lua chon khong trung nhau
+            for (let i = 0; i < 5; i++){
+            let x;
+            do {
+            x = prompt("nhap so may man:");
+            x = parseInt(x);
+            }while (mynumbers.includes(x) || isNaN(x));
+            //mynumbers[i] = x;
+                mynumbers.push(x);
+            }
+            //kiem tra xem co trung giai
+            let sl = 0;
+            for (let i = 0; i< 5; i++){
+                if(lk.includes(mynumbers[i]))
+                  sl++;
+            }
+            if(sl == 5)
+                alert("bán nhà chưa em êi");
+
+ </script>
+</body>
+</html>

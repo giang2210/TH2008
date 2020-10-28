@@ -10,7 +10,43 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac7d5b4f-7210-48a8-9536-f1bbd15969e3" name="Default Changelist" comment="dsafsf" />
+    <list default="true" id="ac7d5b4f-7210-48a8-9536-f1bbd15969e3" name="Default Changelist" comment="dsafsf">
+      <change afterPath="$PROJECT_DIR$/baitapjs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/boxmodel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demofontawaesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/luyentap3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/session7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deomolayout_js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyentap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session10_js_p2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session10js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session9js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HTML-CSS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HTML-CSS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btvn.html" beforeDir="false" afterPath="$PROJECT_DIR$/btvn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/btvn1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/btvn1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/anh1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/anh2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/anh3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/anh4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/anh5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hgfg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/quaanf1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/quan2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/quan3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tyt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/session9js.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs7.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sesion6.html" beforeDir="false" afterPath="$PROJECT_DIR$/sesion6.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +55,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -27,6 +64,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iX1SItD5sFM43yDeYoWoK32GtA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +73,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,6 +82,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,7 +97,34 @@
       <workItem from="1602039168127" duration="703000" />
       <workItem from="1602041218640" duration="5871000" />
       <workItem from="1602050277290" duration="9632000" />
-      <workItem from="1602120664079" duration="11246000" />
+      <workItem from="1602120664079" duration="11392000" />
+      <workItem from="1602205287692" duration="458000" />
+      <workItem from="1602206773621" duration="11016000" />
+      <workItem from="1602242055601" duration="427000" />
+      <workItem from="1602348610512" duration="2036000" />
+      <workItem from="1602384744288" duration="6745000" />
+      <workItem from="1602411134877" duration="448000" />
+      <workItem from="1602422050228" duration="1735000" />
+      <workItem from="1602425962456" duration="903000" />
+      <workItem from="1602465713361" duration="135000" />
+      <workItem from="1602465863555" duration="9852000" />
+      <workItem from="1602481806578" duration="10124000" />
+      <workItem from="1602552371005" duration="21519000" />
+      <workItem from="1602637458821" duration="1841000" />
+      <workItem from="1602640580300" duration="9291000" />
+      <workItem from="1602654655354" duration="16527000" />
+      <workItem from="1602778249155" duration="1057000" />
+      <workItem from="1602810682742" duration="35000" />
+      <workItem from="1602811125184" duration="12503000" />
+      <workItem from="1602826735254" duration="6889000" />
+      <workItem from="1603071026093" duration="9718000" />
+      <workItem from="1603085835655" duration="21716000" />
+      <workItem from="1603415959175" duration="11685000" />
+      <workItem from="1603675045099" duration="11398000" />
+      <workItem from="1603722027491" duration="8350000" />
+      <workItem from="1603778954549" duration="7351000" />
+      <workItem from="1603847338869" duration="9484000" />
+      <workItem from="1603862984068" duration="12070000" />
     </task>
     <task id="LOCAL-00001" summary="dsafsf">
       <created>1602039190131</created>
@@ -101,7 +168,84 @@
       <option name="project" value="LOCAL" />
       <updated>1602132046904</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="dsafsf">
+      <created>1602132064752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602132064752</updated>
+    </task>
+    <task id="LOCAL-00008" summary="daylengithubs">
+      <created>1602423662249</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602423662249</updated>
+    </task>
+    <task id="LOCAL-00009" summary="kjoij">
+      <created>1602427675896</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602427675896</updated>
+    </task>
+    <task id="LOCAL-00010" summary="gkqegkg">
+      <created>1602486675771</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602486675771</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feff">
+      <created>1602779159324</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602779159324</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fafaf">
+      <created>1602831269786</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602831269786</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fafafkk">
+      <created>1602831940376</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602831940376</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fafaf">
+      <created>1602832065210</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602832065210</updated>
+    </task>
+    <task id="LOCAL-00015" summary="dsafsf">
+      <created>1602832864880</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602832864880</updated>
+    </task>
+    <task id="LOCAL-00016" summary="rfqrqwr">
+      <created>1603187949852</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1603187949852</updated>
+    </task>
+    <task id="LOCAL-00017" summary="gưg">
+      <created>1603419372339</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1603419372339</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,21 +267,53 @@
     <MESSAGE value="tiet 2" />
     <MESSAGE value="daylen githubs" />
     <MESSAGE value="day len github" />
+    <MESSAGE value="daylengithubs" />
+    <MESSAGE value="kjoij" />
+    <MESSAGE value="gkqegkg" />
+    <MESSAGE value="feff" />
+    <MESSAGE value="fafafkk" />
+    <MESSAGE value="fafaf" />
     <MESSAGE value="dsafsf" />
-    <option name="LAST_COMMIT_MESSAGE" value="dsafsf" />
+    <MESSAGE value="rfqrqwr" />
+    <MESSAGE value="gưg" />
+    <option name="LAST_COMMIT_MESSAGE" value="gưg" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="147" y="64" key="DiffContextDialog" timestamp="1602131038792">
+    <state x="501" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603416760737">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="147" y="64" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602131038792" />
+    <state x="501" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603416760737" />
+    <state x="147" y="64" key="DiffContextDialog" timestamp="1602831440858">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="64" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602831440858" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1603420517966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603420517966" />
     <state x="643" y="114" key="RollbackChangesDialog" timestamp="1602131043589">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="643" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602131043589" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602132051142">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602466060543">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602132051142" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602466060543" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603419471216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603419471216" />
+    <state x="587" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603419293068">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="587" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1603419293068" />
+    <state x="674" y="0" width="876" height="805" key="dock-window-1" timestamp="1602487485965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="674" y="0" width="876" height="805" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602487485965" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1603724650722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603724650722" />
   </component>
 </project>

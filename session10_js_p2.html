@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo JS with DOM</title>
+</head>
+<body>
+    <h1 id="heading1">Hello world!</h1>
+    <img id="img01" src="img/ggg.jpg">
+    <div id="logo"></div>
+    <script type="text/javascript">
+      function changetext() {
+          var head1 = document.getElementById("heading1");
+          head1.innerText = "good morning!";
+          head1.style.color = "red";
+          head1.style.fontSize = "30px"; //fontsize
+          head1.style.backgroundColor = "orange" ;
+          // kiem tra
+          if(head1.classList.contains("heading")){
+              //xoa class
+              head1.classList.remove("heading");
+          }else {
+              // them class
+              head1.classList.add("heading");
+          }
+
+          // tac dong den img01
+          var im1 = document.getElementById("img01");
+          im1.src ="img/n.jpg";
+          im1.style.display = "none"; // tat
+          im1.style.display = "block"; //hien
+          im1.style.background = "red";
+      }
+      // su dung ham sau 3s
+      setTimeout(changetext, 3000);
+          function b(){
+          var im1 = document.getElementById("img01");
+          if( im1.style.display == "none"){
+              im1.style.display = "block" // hien
+          }else {
+              im1.style.display = "none" // tat
+
+          }
+      }
+      setInterval(b,0);
+          function logo(){
+              var lg = document.getElementById("logo");
+              var ct = "<a href"
+              lg.innerHTML = ct;
+          }
+          //logo();
+      setTimeout(logo, 1000);
+    </script>
+</body>
+</html>

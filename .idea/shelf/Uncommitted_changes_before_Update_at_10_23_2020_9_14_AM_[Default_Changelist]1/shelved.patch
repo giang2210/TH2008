@@ -1,0 +1,9 @@
+Index: C:/Users/My PC/WebstormProjects/topcoder/index.php
+===================================================================
+--- C:/Users/My PC/WebstormProjects/topcoder/index.php	(revision 284b9539a9554cbb0d6800b79bd466fcde6cf861)
++++ C:/Users/My PC/WebstormProjects/topcoder/index.php	(date 1603418963329)
+@@ -1,1 +1,1 @@
+-<?php include("home.html");
+\ No newline at end of file
++   <?php include("home.html");
+\ No newline at end of file

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="servey">
+    <!---form điền thông tin --->
+    <!-- dạng chữ minlength -->
+    <!-- dạng số dùng min max -->
+    <!-- pattern là bắt buộc nhập theo yêu cầu -->
+    <form action="#" method="post">
+        <input name="full_name" type="text" placeholder="full name" required/>
+        <input name="email" type="email" placeholder="email" required/>
+        <input name="password" type="password" placeholder="password" required/> <!-- bắt buộc nhập -->
+        <input name="age" type="number" placeholder="Age" />
+        <input name="birthday" type="date" placeholder="birthday" />
+        <input name="mycolor" type="color" placeholder="mycolor" />
+
+
+        <input name="price" type="range" min="0" max="100" />
+
+
+        <p> giới tính</p>
+        <label> <input name="sex" value="nam" type="radio"/>nam </label>
+        <label><input name="sex" value="nữ" type="radio"/>nữ </label>
+        <label><input name="sẽx" value="khác" type="radio"/>khác </label>
+        <p>
+            <label><input type="checkbox" name="confirm"/> tôi đã độc và chấp nhận các điều khoản</label>
+        </p>
+        <p>thành phố sinh sống:</p>
+        <select name="city">     <!-- lựa chọn !-->
+            <option value="hn">hà nội</option>
+            <option value="dn">đà nẵng</option>
+            <option value="sg">sài gòn</option>
+            <option value="vp">vĩnh phúc</option>
+        </select>
+        <p>mô tả bản thân:</p>
+        <textarea name="comment" rows="10" cols="50 " placeholder="viết nhận xét của bạn.."></textarea>
+        <br/>
+        <button type="submit">gửi đi</button>
+        <button type="button">button</button>
+        <button type="reset">reset</button>
+
+
+    </form>
+</div>
+
+</body>
+</html>

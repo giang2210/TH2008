@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DEMO JS 2</title>
+</head>
+<script type="text/javascript">
+    //setTimeout(function ())
+    function canhbao() { //khai bao
+        console.log("canh bao nguy hiem");
+    }//canh bao(); thuc thi ham
+    // tao de lay
+    //setTimeout(canhbao,3000); // goi bang ten ham
+    //setTimeout(function() { //nap ham an danh
+      //  alert("canh bao nguy hiem");
+    //},3000);
+    var min = 10, sec = 0;
+    var clock = function (){ //khai bao ham
+        console.log(min+" :"+sec);
+        sec --;
+        if (sec < 0){
+            sec = 59;
+            min --;
+        }
+        if (min < 0){
+            clearInterval(time);
+            // dung dong ho
+        }
+    }
+  var time = setInterval(clock,0,1);
+    //clock(); // thuc thi ham
+    // viet ham theo kieu arrow funtion
+    var tinhtong = (a,b)=>{
+        return a + b;
+    }
+</script>
+
+<body>
+
+</body>
+</html>
