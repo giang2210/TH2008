@@ -20,27 +20,7 @@ img{
     float: left;
     width: 100%;
 }
-.nav{
-    padding: 20px 0;
-    font-family: Verdana;
-    color: #CEEAEE;
-    font-size: 16px;
-}
-.menu{
-    padding-left: 30px;
-}
-.menu li{
-    float: left;
-    list-style: none;
-    margin-right: 40px;
-}
-.menu .last-item{
-    float: right;
-    margin-right: 0;
-}
-.main{
-    padding-top: 30px;
-}
+
 .content{
     width: 100%;
     background-color: #ffffff;
