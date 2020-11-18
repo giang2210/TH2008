@@ -20,53 +20,50 @@ img{
     float: left;
     width: 100%;
 }
-
-.content{
+.home{
     width: 100%;
     background-color: #ffffff;
     padding: 10px;
     margin-top: -40px;
 }
-.content_1{
+.home-1{
     margin-top: -97px;
     position: relative;
     top: -280px;
     left: 60px;
     color: #f9f9f9;
 }
-
-.aside{
+.main{
     width: 100%;
     background-color: #FFFFFF;
-    font-family: Verdana;
     padding: 20px;
     margin-top: 10px;
 }
-.text{
+.note{
     font-size: 16px;
     font-weight: 400;
 }
-.aside_1-1 img{
+.main-1 img{
     float: left;
     padding-right: 20px;
     padding-top: 8px;
 }
-.aside_1-1 p{
+.main-1 p{
     line-height: 1.8;
     font-size: 13px;
     word-spacing: 4px;
     text-align: justify;
 }
 
-.aside_2{
+.main-2{
     padding-top: 20px;
 }
-.aside_1-2 img{
+.main-3 img{
     float: right;
     padding-right: 20px;
     padding-top: 8px;
 }
-.aside_1-2 p {
+.main-3 p {
     line-height: 1.8;
     font-size: 13px;
     word-spacing: 4px;
