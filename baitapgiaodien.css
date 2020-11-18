@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+}
+
+.img{
+    max-width: 100%;
+}
+#home{
+    margin-top: -2px;
+}
+.img {
+    max-width: 100%;
+}
+.connec{
+    margin-top: -20px;
+    padding: 20px 0;
+}
+.house{
+    padding: 20px 0px;
+}
+.itemain {
+    float: left;
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    margin: 15px 0;
+    border-radius: 10px;
+    border: 1px solid #dbd8d8;
+    box-shadow: 5px 5px 5px #dedbdb;
+}
+.itemain .product-image{
+    background-color: white;
+    border-radius: 10px 10px 0px 0px;
+   width:255px;
+    height: 300px;
+}
+.itemain .price {
+    font-size: 15px;
+    color: red;
+    padding: 0px 10px 0px 20px;
+    position: relative;
+    top: 15px;
+    left: -5px;
+}
+.itemain .add-to-cart{
+    margin-top: 30px;
+    float: left;
+    width: 85%;
+    color: black;
+    background-color: #f7f7f7;
+    padding: 10px 10px ;
+    font-size: 10px;
+    text-decoration: none;
+    transition: background-color 300ms;
+    border-radius: 10px;
+    margin-left: calc((100% - 85%)/2);
+}
+.itemain .star {
+    float: left;
+    width: 100%;
+    margin: 1px 0;
+    padding: 0px 20px 0px 0px;
+}
+.star .star-box{
+    float: right;
+    width: 75px;
+    height: 2px;
+    background-image: url("/img/star-off.png");
+    background-repeat: repeat-x;
+    background-size: 12px 12px;
+}
+.star-box .star-rate{
+    float: left;
+    height: 16px;
+    background-image: url("img/star-on.png ");
+    background-repeat: repeat-x;
+    background-size: 12px 12px;
+    margin-top: 20px;
+    color: #ff253a;
+    margin-left: 30px;
+}

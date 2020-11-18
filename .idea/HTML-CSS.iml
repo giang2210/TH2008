@@ -9,6 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="topcoder" />
-    <orderEntry type="module" module-name="WebstormProjects" />
+    <orderEntry type="module" module-name="topcoder" />
   </component>
 </module>
