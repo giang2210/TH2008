@@ -1,0 +1,233 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    background-color: #F7F7F7;
+}
+img{
+    max-width: 100%;
+}
+.section{
+    line-height: 2;
+}
+.container{
+    margin-top: 50px;
+    width: 1300px;
+}
+.product-name{
+    color: black;
+    font-size: 16px;
+    font-weight: 200;
+}
+.product-name:hover{
+    text-decoration: none;
+    color: black;
+}
+.Product{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.Product_2{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.check {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+.check input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: silver;
+}
+
+
+.check:hover input ~ .checkmark {
+    background-color: #706c6c;
+}
+
+
+.check input:checked ~ .checkmark {
+    background-color: #2196F3;
+}
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+
+.check input:checked ~ .checkmark:after {
+    display: block;
+}
+
+
+.check .checkmark:after {
+    left: 9px;
+    top: 4px;
+    width: 7px;
+    height: 12px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.item{
+    float: left;
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    margin: 15px 0;
+    border-radius: 10px;
+    border: 1px solid #dbd8d8;
+    box-shadow: 5px 5px 5px #dedbdb;
+}
+.item .product-image{
+    background-color: white;
+    border-radius: 10px 10px 0px 0px;
+    margin-left: 25px;
+    width: 230px;
+    height: 250px;
+}
+.item .product-name{
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0px 10px 0px 20px;
+}
+.item .price{
+    font-size: 18px;
+    color: red;
+    padding: 0px 10px 0px 20px;
+    position: relative;
+    top: -22px;
+
+}
+.GiaCu{
+    color: #acacac;
+}
+.item .add-to-cart{
+    margin-top: -10px;
+    float: left;
+    width: 85%;
+    color: black;
+    background-color: #e5dede;
+    padding: 10px 10px ;
+    font-size: 15px;
+    text-decoration: none;
+    transition: background-color 300ms;
+    border-radius: 10px;
+    margin-left: calc((100% - 85%)/2);
+}
+.item .add-to-cart:hover{
+    background-color: #c1bbbb;
+}
+.item .star{
+    float: left;
+    width: 100%;
+    margin: 5px 0;
+    padding: 0px 20px 0px 0px;
+}
+.star .star-box{
+    float: right;
+    width: 80px;
+    height: 16px;
+    background-image: url("star-off.png");
+    background-repeat: repeat-x;
+    background-size: 16px 16px;
+}
+.star-box .star-rate{
+    float: left;
+    height: 16px;
+    background-image: url("star-on.png");
+    background-repeat: repeat-x;
+    background-size: 16px 16px;
+}
+.New{
+    position: relative;
+    top: -240px;
+    left: 10px;
+    color: white;
+    width: 50px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #188800;
+    margin-top: -43px;
+}
+
+
+.icon {
+    float: right;
+    position: relative;
+    top: 20px;
+    right: 13px;
+    opacity: 0;
+    width: 1.8em;
+    height: 1.8em;
+    cursor: pointer;
+    transition: .3s;
+}
+.icon1{
+    transition: 3s;
+}
+.col-md-3:hover .icon {
+    opacity: 1;
+}
+.icon1:hover{
+    animation: shake 1s;
+    animation-iteration-count: infinite;
+}
+@keyframes shake {
+    0% { transform: scale(1); }
+    25% { transform: scale(0.8); }
+    50% { transform: scale(1); }
+    75% { transform: scale(0.8);}
+    100% { transform: scale(1); }
+}
+.icon3:hover{
+    animation: shake 1s;
+    animation-iteration-count: infinite;
+}
+@keyframes shake {
+    0% { transform: scale(1); }
+    25% { transform: scale(0.8); }
+    50% { transform: scale(1); }
+    75% { transform: scale(0.8);}
+    100% { transform: scale(1); }
+}
